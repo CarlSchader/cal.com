@@ -102,3 +102,7 @@ packages/**/.yarn/ci-cache/
 
 # AI
 .claude
+
+# direnv
+.envrc
+.direnv/
